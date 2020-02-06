@@ -1,0 +1,3 @@
+C:\Users\shami\source\repos\Lab 13 - Rock Paper Scissors\Lab 13 - Rock Paper Scissors\obj\Debug\netcoreapp3.1\Lab 13 - Rock Paper Scissors.csprojAssemblyReference.cache
+C:\Users\shami\source\repos\Lab 13 - Rock Paper Scissors\Lab 13 - Rock Paper Scissors\obj\Debug\netcoreapp3.1\Lab 13 - Rock Paper Scissors.AssemblyInfoInputs.cache
+C:\Users\shami\source\repos\Lab 13 - Rock Paper Scissors\Lab 13 - Rock Paper Scissors\obj\Debug\netcoreapp3.1\Lab 13 - Rock Paper Scissors.AssemblyInfo.cs
