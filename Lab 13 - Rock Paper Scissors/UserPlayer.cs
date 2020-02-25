@@ -8,40 +8,32 @@ namespace Lab_13___Rock_Paper_Scissors
     {
         public override Roshambo GenerateRoshambo()
         {
-            int userResponse;
+            string userResponse = Console.ReadLine();
             switch (userResponse)
             {
-                case 1:
-                    if(userResponse == 1)
+                case "1":
+                    if(userResponse == "1")
                     {
                         return Roshambo.Rock;
                     }
                     break;
-                case 2:
-                    if(userResponse == 2)
+                case "2":
+                    if(userResponse == "2")
                     {
                         return Roshambo.Paper;
                     }
                     break;
-                case 3:
-                    if(userResponse == 3)
+                case "3":
+                    if(userResponse == "3")
                     {
                         return Roshambo.Scissors;
                     }
                     break;
                 default:
-                    {
-                        Console.WriteLine("Error value, please select a numeric value. 1. Rock, 2. Paper, or 3. Scissors");
-                        
-                    }
+                    Console.WriteLine("Error value, please select a numeric value. 1. Rock, 2. Paper, or 3. Scissors");                   
                     break;
             }
-        }
-
-        public static void GetUserChoice(string message)
-        {
-            Console.WriteLine(message);
-            return Console.ReadLine();
+            return GenerateRoshambo();
         }
     }
 }

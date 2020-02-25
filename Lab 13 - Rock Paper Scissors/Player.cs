@@ -6,7 +6,7 @@ namespace Lab_13___Rock_Paper_Scissors
 {
     abstract class Player
     {
-        public string RoshamboValue { get; set; }
+        //public Roshambo RoshamboValue { get; set; }
         public string Name { get; set; }
         
         public Player()

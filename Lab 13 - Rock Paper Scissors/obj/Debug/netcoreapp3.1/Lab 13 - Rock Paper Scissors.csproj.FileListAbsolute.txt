@@ -1,3 +1,11 @@
 C:\Users\shami\source\repos\Lab 13 - Rock Paper Scissors\Lab 13 - Rock Paper Scissors\obj\Debug\netcoreapp3.1\Lab 13 - Rock Paper Scissors.csprojAssemblyReference.cache
 C:\Users\shami\source\repos\Lab 13 - Rock Paper Scissors\Lab 13 - Rock Paper Scissors\obj\Debug\netcoreapp3.1\Lab 13 - Rock Paper Scissors.AssemblyInfoInputs.cache
 C:\Users\shami\source\repos\Lab 13 - Rock Paper Scissors\Lab 13 - Rock Paper Scissors\obj\Debug\netcoreapp3.1\Lab 13 - Rock Paper Scissors.AssemblyInfo.cs
+C:\Users\shami\source\repos\Lab 13 - Rock Paper Scissors\Lab 13 - Rock Paper Scissors\bin\Debug\netcoreapp3.1\Lab 13 - Rock Paper Scissors.exe
+C:\Users\shami\source\repos\Lab 13 - Rock Paper Scissors\Lab 13 - Rock Paper Scissors\bin\Debug\netcoreapp3.1\Lab 13 - Rock Paper Scissors.deps.json
+C:\Users\shami\source\repos\Lab 13 - Rock Paper Scissors\Lab 13 - Rock Paper Scissors\bin\Debug\netcoreapp3.1\Lab 13 - Rock Paper Scissors.runtimeconfig.json
+C:\Users\shami\source\repos\Lab 13 - Rock Paper Scissors\Lab 13 - Rock Paper Scissors\bin\Debug\netcoreapp3.1\Lab 13 - Rock Paper Scissors.runtimeconfig.dev.json
+C:\Users\shami\source\repos\Lab 13 - Rock Paper Scissors\Lab 13 - Rock Paper Scissors\bin\Debug\netcoreapp3.1\Lab 13 - Rock Paper Scissors.dll
+C:\Users\shami\source\repos\Lab 13 - Rock Paper Scissors\Lab 13 - Rock Paper Scissors\bin\Debug\netcoreapp3.1\Lab 13 - Rock Paper Scissors.pdb
+C:\Users\shami\source\repos\Lab 13 - Rock Paper Scissors\Lab 13 - Rock Paper Scissors\obj\Debug\netcoreapp3.1\Lab 13 - Rock Paper Scissors.dll
+C:\Users\shami\source\repos\Lab 13 - Rock Paper Scissors\Lab 13 - Rock Paper Scissors\obj\Debug\netcoreapp3.1\Lab 13 - Rock Paper Scissors.pdb
